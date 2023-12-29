@@ -1,0 +1,8 @@
+{
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [],
+    "properties": { "name": { "type": "string" }, "url": { "type": "string" } }
+  }
+}
